@@ -1,6 +1,11 @@
 .card-sm {
   width: 320px;
 }
-.card img{
+.card img, .card iframe {
   width: 100%;
+}
+.btn-like {
+  border: none;
+  background: transparent;
+  color: #F50057;
 }
